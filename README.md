@@ -1,2 +1,7 @@
-# waveshield-cracked
-To install it you will need mysql-async only !       💖 Cracked by [WWW] Ritte#3215
+# WaveShield Cracked By Ritte
+
+## Prerequisite
+- To install it you will need mysql-async only !
+
+## Credit
+💖 Cracked by Ritte
